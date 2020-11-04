@@ -1,0 +1,4 @@
+rootProject.name='FrontEndApplication'
+include ':app', ':scanlibrary'
+include ':openCVLibrary343'
+include ':openCVLibrary343'

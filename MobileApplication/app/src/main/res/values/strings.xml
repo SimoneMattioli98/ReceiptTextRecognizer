@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FrontEndApplication</string>
+    <string name="noConnection">No Connection</string>
+    <string name="settings">Settings</string>
+    <string name="received_message">PROCESSED : %1$s</string>
+
+    <string name="previewcamera">PREVIEWCAMERA</string>
+    <string name="switch_to_canny">SWITCH TO CANNY</string>
+    <string name="send">SEND</string>
+    <string name="retake">RETAKE</string>
+</resources>
